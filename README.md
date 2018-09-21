@@ -62,7 +62,8 @@ Scan files looking for sensitive information on SMB shares, local folders and pu
 - cifs-utils 
 - GhostScript
 - zip
-- ruby (gems -> nokogiri / httparty / colorize)
+- ruby (gems -> nokogiri / httparty / colorize ) or install from Gemfile 
+   $ bundle install 
 - yara (only to use -y option)
 
 
